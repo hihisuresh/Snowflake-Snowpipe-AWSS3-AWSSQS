@@ -1,4 +1,4 @@
-# Snowflake Snowpipe with AWSS3 and AWSSQS
+# Snowflake Snowpipe with AWS S3 and AWS SQS
 Automating Snowpipe for Amazon S3
 
 Reference : https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-s3.html
