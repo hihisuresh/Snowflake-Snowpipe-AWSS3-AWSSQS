@@ -5,8 +5,8 @@ Reference : https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-s3.
 
 Configuring Secure Access to Cloud Storage
 
-See attached Document for screeshots of all the steps
-
+See attached Document 
+<a href="https://github.com/hihisuresh/Snowflake-Snowpipe-AWSS3-AWSSQS/blob/master/SnowflakeSnowpipewithAWSS3.docx">SnowflakeSnowpipewithAWSS3.docx</a> for screeshots of all the steps
 
 Step 1: Configure Access Permissions for the S3 Bucket
 
